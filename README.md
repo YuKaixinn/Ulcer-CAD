@@ -1,2 +1,2 @@
-# Ulcer-CAD
-Includes classification and segmentation of corneal ulcers
+# Corneal Ulcer-CAD
+Joint classification and segmentation for corneal ulcers
